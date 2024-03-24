@@ -1,0 +1,41 @@
+Data Science Membership plan (CampasX)
+
+02_Python fundamentals (access)
+03_operators_loops
+04_Python Strings
+05_Problems_on_strings
+06_portfolio website for data science
+11_Lists in python
+12_Tuples+Sets+Dictionary
+13_Functions in Python
+20_OOPs part 1
+21_OOPS part 2
+22_OOPS part 3
+23_Abstraction
+30_File Handling + Serializable & Deserialization
+32_Recursion using python
+33_Exception Handling in python
+34_Decorators & namespace
+35_iterators
+36_Generators
+37_resume building for data science
+45_Numpy fundamentals
+46_Advance numpy
+47_Numpy Tricks
+52_pandas
+54_Pandas DataFrame
+55_Important series methods
+57_Important DataFrame Methods
+61_GroupBy Object in Pandas
+63_Merging, joining & Concatenation
+70_MultiIndex Series and DataFrame
+72_Vectorised String Operations
+76_Plotting using Matplotlib
+78_Advance Matplotlib
+81_Plotu tutorial for beginners
+83_Making a Corona Virus
+84_Deploying a Dash application on Heroku 
+86_Plotting using Seaborn
+88_Plotting using Seaborn
+92_Data Gathering 
+94_Data Assessing and cleaning

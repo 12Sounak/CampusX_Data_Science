@@ -1,0 +1,29 @@
+Topics :
+About Python
+Data Types
+Variable, Keywords and Identifiers
+If/else statement
+
+
+Why Python?
+- Python was created before java that is 1989.
+
+1> Design Philosophy 
+
+2> Battries included - many in-build functions and data Structure are available help to reduce coding.
+
+3> General Purpose - Used in Data Science, Web Dev,used as OOP , procedural etc etc
+
+4> Libraries/Community - 
+
+
+
+Why Python for Data Science ?
+
+1> Easy to Learn
+2> Proximity with Maths
+3> Community
+
+
+- Python in-build Data Structures are slow then general c/c++.
+but libraries like numpy are developed wich are fast and more optimised.
